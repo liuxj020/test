@@ -1,4 +1,4 @@
-# test 
+# printch('hello word!')
 
- test doc
+ printch('hello word!')
 
